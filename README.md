@@ -8,7 +8,7 @@ A recurring (and from my point of view: a low-quality) argument of genocide-deni
 
 ## Solution
 
-Create a briefing which presents 1. the means of the genocide, ccp applies (inhuman laws, internment camps, etc) 2. the evidences (official regulations, satellite images, testimonies) and 3. the relation between the two.
+Create a briefing which presents 1. the means of the genocide, ccp applies (inhuman laws, internment camps, etc) 2. the evidences (official regulations, satellite images, testimonies, etc.) and 3. the relation between the two.
 
 ## Result
 
