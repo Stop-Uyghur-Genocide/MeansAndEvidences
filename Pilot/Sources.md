@@ -21,3 +21,6 @@ a work in progress, last updated: 06/01/2021
   https://twitter.com/csomgyula/status/1305797763377041409
 * @csomgyula: Thread about the Chinese propaganda machine with a special focus on the Uyghur genocide  
   https://twitter.com/csomgyula/status/1310214293783281664
+
+See also the paper search on tandfonline:  
+https://www.tandfonline.com/action/doSearch?AllField=Xinjiang+OR+Uyghur&AfterYear=2017
