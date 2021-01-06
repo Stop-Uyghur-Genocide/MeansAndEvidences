@@ -9,14 +9,19 @@ a work in progress, last updated: 06/01/2021
   https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit#heading=h.iu0lxhhlgto8  
 * The University of British Columbia: Xinjiang Documentation Projects    
   https://xinjiang.sppga.ubc.ca/
-* Uyghur Human Rights Project: Reports and briefings  
-  https://uhrp.org/uhrp-reports
 * ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project:  
   https://xjdp.aspi.org.au/  
-* Adrian Zenz, The Jamestown Foundation  
+* Adrian Zenz @adrianzenz, The Jamestown Foundation  
   https://jamestown.org/analyst/adrian-zenz/  
 * Timothy Grose @GroseTimothy  
   https://twitter.com/GroseTimothy
+* Shawn Zhang @shawnwzhang  
+  https://shawnzhang.ca/test/  
+  https://medium.com/@shawnwzhang
+* Uyghur Human Rights Project: Reports and briefings  
+  https://uhrp.org/uhrp-reports
+* Campaign for Uyghurs: Resources  
+  https://campaignforuyghurs.org/category/advocacy-resources/
 * Xinjiang Victim Database (by https://twitter.com/shahitbiz)  
   https://shahit.biz/eng/ 
 * @BadChinaTake works on Xinjiang document translations  
