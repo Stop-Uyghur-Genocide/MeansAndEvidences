@@ -1,8 +1,6 @@
 # Sources
 a work in progress, last updated: 06/01/2021
 
-Scholars and kinda:
-
 * Kelly Hammond @kellyahammond, Sophie Bonadeo @sophiebonadeo: Credible sources about the human rights crisis in Xinjiang  
   https://twitter.com/kellyahammond/status/1346095065865846787  
   https://docs.google.com/document/d/1VMVPVrQD8LLrIp54foM99dHx-_KY1XJ9o4s48V3Xp8s/edit
@@ -13,9 +11,8 @@ Scholars and kinda:
   https://xjdp.aspi.org.au/  
 * Adrian Zenz, The Jamestown Foundation  
   https://jamestown.org/analyst/adrian-zenz/  
-
-Community and kinda:
-
+* Uyghur Human Rights Project: Reports and briefings  
+  https://uhrp.org/uhrp-reports
 * Xinjiang Victim Database (by https://twitter.com/shahitbiz)  
   https://shahit.biz/eng/ 
 * @BadChinaTake works on Xinjiang document translations  
