@@ -12,5 +12,5 @@ For an illustration of the concept see the [poster](Pilot/MeansAndEvidencesPoste
 
 Follow the public discussion on Twitter: https://twitter.com/csomgyula/status/1346495545741873157
 
-Follow the [pilot work](projects/1) (current stream of work)
+Follow the [pilot work](/Stop-Uyghur-Genocide/MeansAndEvidences/projects/1) (current stream of work)
 
