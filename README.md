@@ -1,6 +1,6 @@
 # Means and evidences of the Uyghur genocide
 
-A joint community project to create a briefing on the Uyghur genocide and its supporting evidences.
+A proposed joint community project (currently in its infant state) to create a briefing on the Uyghur genocide and its supporting evidences.
 
 | Name     | Description                                                  |
 | -------- | ------------------------------------------------------------ |
