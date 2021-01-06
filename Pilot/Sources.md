@@ -9,7 +9,7 @@ a work in progress, last updated: 06/01/2021
   https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit#heading=h.iu0lxhhlgto8  
 * The University of British Columbia: Xinjiang Documentation Projects    
   https://xinjiang.sppga.ubc.ca/
-* ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project:  
+* ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project  
   https://xjdp.aspi.org.au/  
 * Adrian Zenz @adrianzenz, The Jamestown Foundation  
   https://jamestown.org/analyst/adrian-zenz/  
