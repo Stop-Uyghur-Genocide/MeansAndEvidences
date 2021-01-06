@@ -13,6 +13,8 @@ Scholars and organized research:
   https://shahit.biz/eng/ 
 * ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project:  
   https://xjdp.aspi.org.au/  
+* Adrian Zenz, The Jamestown Foundation  
+  https://jamestown.org/analyst/adrian-zenz/  
 
 Community:
 
