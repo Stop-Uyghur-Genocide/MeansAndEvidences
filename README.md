@@ -8,7 +8,7 @@ A joint community project to create a briefing on the Uyghur genocide and its su
 | Solution | Create a briefing which presents 1. the means of the genocide, ccp applies (inhuman laws, internment camps, etc) 2. the evidences (official regulations, satellite images, testimonies, etc.) and 3. the relation between the two. |
 | Result   | An infographic and a brief report with sources.              |
 
-For an illustration of the concept see the [poster](Pilot/MeansAndEvidencesPoster.png) under [Pilot](Pilot)
+For an illustration of the concept see the [poster](Pilot/MeansAndEvidencesPoster.pdf) under [Pilot](Pilot)
 
 Follow the public discussion on Twitter: https://twitter.com/csomgyula/status/1346495545741873157
 
