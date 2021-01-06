@@ -13,5 +13,5 @@ For an illustration of the concept see the [poster](Pilot/MeansAndEvidencesPoste
 
 Follow the public discussion on Twitter: https://twitter.com/csomgyula/status/1346495545741873157
 
-See the [pilot work](Pilot/Pilot.md) (current stream of work)
+See the [pilot](Pilot/Pilot.md) - the current stream of work
 
