@@ -11,7 +11,7 @@ Scholars and organized research:
   https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit#heading=h.iu0lxhhlgto8  
 * Xinjiang Victim Database (by https://twitter.com/shahitbiz)  
   https://shahit.biz/eng/ 
-* ASPI: The Xinjiang Data Project:  
+* ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project:  
   https://xjdp.aspi.org.au/  
 
 Community:
