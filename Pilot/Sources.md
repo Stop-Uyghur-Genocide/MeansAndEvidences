@@ -13,6 +13,8 @@ a work in progress, last updated: 06/01/2021
   https://xjdp.aspi.org.au/  
 * Adrian Zenz @adrianzenz, The Jamestown Foundation  
   https://jamestown.org/analyst/adrian-zenz/  
+* Dr Jo Smith Finley @j_smithfinley, Newcastle University  
+  https://www.ncl.ac.uk/sml/staff/profile/jsmithfinley.html#publications  
 * Timothy Grose @GroseTimothy  
   https://twitter.com/GroseTimothy
 * Shawn Zhang @shawnwzhang  
