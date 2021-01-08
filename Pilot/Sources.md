@@ -1,5 +1,5 @@
 # Sources
-a work in progress, last updated: 06/01/2021
+a work in progress, last updated: 08/01/2021
 
 * Kelly Hammond @kellyahammond, Sophie Bonadeo @sophiebonadeo, University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
   https://twitter.com/kellyahammond/status/1346095065865846787  
