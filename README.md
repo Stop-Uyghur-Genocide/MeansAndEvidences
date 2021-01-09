@@ -1,6 +1,6 @@
 # Means and evidences of the Uyghur genocide
 
-A proposed joint community project (currently in its infant state) to create a briefing on the Uyghur genocide and its supporting evidences. Initial proposal: https://twitter.com/csomgyula/status/1346495545741873157
+A proposed joint community project (currently in its [pilot](Pilot) state) to create a briefing on the Uyghur genocide and its supporting evidences. Initial proposal: https://twitter.com/csomgyula/status/1346495545741873157
 
 
 | Name     | Description                                                  |
