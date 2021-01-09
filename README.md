@@ -15,7 +15,7 @@ The current stream of work is to create a [pilot](Pilot) version:
 * **Concept**: For a visual illustration of the concept see the [poster](Pilot/InfoGraphic/MeansAndEvidencesPoster.pdf) or the [diagram](Pilot/InfoGraphic/MeansAndEvidencesDiagram.pdf)
 * **Brief report**: Pilot report is currently work in progress, see: [InfoText](Pilot/InfoText) folder
 
-See [pilot](Pilot/Pilot.md) for the details of 
+See [Pilot.md](Pilot/Pilot.md) for the details of the current process.
 
 ## Discussion
 
