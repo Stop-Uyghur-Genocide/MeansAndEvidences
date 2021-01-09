@@ -10,7 +10,7 @@ A proposed joint community project (currently in its infant state) to create a b
 | Result   | An infographic and a brief report with sources.              |
 
 ## Pilot
-The current stream of work is to create a [pilot](Pilot) version:
+The current stream of work is to create a pilot version:
 
 * **Concept**: For a visual illustration of the concept see the [poster](Pilot/Concept/MeansAndEvidencesPoster.pdf) or the [diagram](Pilot/Concept/MeansAndEvidencesDiagram.pdf)
 * **Brief report**: Pilot report is currently work in progress, see the [Report](Pilot/Report) folder
