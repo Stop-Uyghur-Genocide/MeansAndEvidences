@@ -13,7 +13,7 @@ A proposed joint community project (currently in its infant state) to create a b
 The current stream of work is to create a [pilot](Pilot) version:
 
 * **Concept**: For a visual illustration of the concept see the [poster](Pilot/Concept/MeansAndEvidencesPoster.pdf) or the [diagram](Pilot/Concept/MeansAndEvidencesDiagram.pdf)
-* **Brief report**: Pilot report is currently work in progress, see the [Report](Report/InfoText) folder
+* **Brief report**: Pilot report is currently work in progress, see the [Report](Pilot/Report) folder
 
 See [Pilot.md](Pilot/Pilot.md) for the details of the current process.
 
