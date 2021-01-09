@@ -6,7 +6,9 @@ Workging draft, last updated: 09/01/2020
 
 **Scope**:
 
-- Create a pilot version of the brief report based on publicly available [sources](Sources.md) and the [concept](Concept/MeansAndEvidencesDiagram.pdf)
+- Create [concept](Concept)
+- Collect publicly available [sources](Sources.md) 
+- Create a pilot version of the brief report based on and the 
   - [Goals](Report/Goals.pdf): textual overview of goals (and hows, ie means)
   - Means: textual overview of means (and supporting evidences)
   - Evidences: textual overview of evidences (and what they prove)
