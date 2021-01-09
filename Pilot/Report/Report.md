@@ -2,7 +2,7 @@
 
 Workging draft, last updated: 09/01/2020
 
-**Goal**: Create a pilot version of the brief report based on publicly available
+**Goal**: Create a pilot version of the brief report
 
 **Scope**:
 
