@@ -9,9 +9,14 @@ A proposed joint community project (currently in its infant state) to create a b
 | Solution | Create a briefing which presents 1. the means of the genocide, ccp applies (inhuman laws, internment camps, etc) 2. the evidences (official regulations, satellite images, testimonies, etc.) and 3. the relation between the two. |
 | Result   | An infographic and a brief report with sources.              |
 
-For an illustration of the concept see the [poster](Pilot/InfoGraphic/MeansAndEvidencesPoster.pdf) or the [diagram](Pilot/InfoGraphic/MeansAndEvidencesDiagram.pdf) under [Pilot](Pilot)
+## Pilot
+The current stream of work is to create a pilot version:
+
+* **InfoGraphic**: For an illustration of the concept see the [poster](Pilot/InfoGraphic/MeansAndEvidencesPoster.pdf) or the [diagram](Pilot/InfoGraphic/MeansAndEvidencesDiagram.pdf) under [Pilot](Pilot)
+* **Brief report**: Pilot report is currently work in progress, see: [InfoText](Pilot/InfoText) folder
+
+See [pilot](Pilot/Pilot.md) for the details of 
+
+## Discussion
 
 Follow the public discussion on Twitter: https://twitter.com/csomgyula/status/1346495545741873157
-
-See the [pilot](Pilot/Pilot.md) - the current stream of work
-
