@@ -1,20 +1,24 @@
 # Sources
-a work in progress, last updated: 06/01/2021
+a work in progress, last updated: 08/01/2021
 
-* Kelly Hammond @kellyahammond, Sophie Bonadeo @sophiebonadeo: Credible sources about the human rights crisis in Xinjiang  
+* Kelly Hammond @kellyahammond, Sophie Bonadeo @sophiebonadeo, University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
   https://twitter.com/kellyahammond/status/1346095065865846787  
   https://docs.google.com/document/d/1VMVPVrQD8LLrIp54foM99dHx-_KY1XJ9o4s48V3Xp8s/edit
 * Donald Clarke 郭丹青 @donaldcclarke: Mass Detentions and Repression in Xinjiang: A Bibliography  
   https://twitter.com/donaldcclarke/status/1346174689333358593  
   https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit#heading=h.iu0lxhhlgto8  
+  https://donaldclarke.net/
 * The University of British Columbia: Xinjiang Documentation Projects    
   https://xinjiang.sppga.ubc.ca/
 * ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project  
   https://xjdp.aspi.org.au/  
 * Adrian Zenz @adrianzenz, The Jamestown Foundation  
   https://jamestown.org/analyst/adrian-zenz/  
-* Timothy Grose @GroseTimothy  
-  https://twitter.com/GroseTimothy
+* Dr Jo Smith Finley @j_smithfinley, Newcastle University  
+  https://www.ncl.ac.uk/sml/staff/profile/jsmithfinley.html#publications  
+* Timothy Grose @GroseTimothy, Rose‑Hulman Institute of Technology  
+  https://twitter.com/GroseTimothy  
+  https://www.rose-hulman.edu/academics/faculty/grose-timothy-grose.html
 * Shawn Zhang @shawnwzhang  
   https://shawnzhang.ca/test/  
   https://medium.com/@shawnwzhang
