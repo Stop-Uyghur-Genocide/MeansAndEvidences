@@ -4,7 +4,7 @@ Workging draft, last updated: 24/01/2021
 
 **Goal**: Create a pilot version of the brief [report](Report.pdf)
 
-**Scope**:
+**Scope**: Pilot of...
 
 - [Goals](Goals.pdf): textual overview of goals (and hows, ie means)
 - [Means](Means.pdf): textual overview of means (and supporting evidences)
