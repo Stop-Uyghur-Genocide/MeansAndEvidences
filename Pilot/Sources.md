@@ -9,6 +9,7 @@ a work in progress, last updated: 27/01/2021
   https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit#heading=h.iu0lxhhlgto8  
   https://donaldclarke.net/
 * The University of British Columbia: Xinjiang Documentation Projects    
+  https://twitter.com/ProjectXinjiang
   https://xinjiang.sppga.ubc.ca/
 * ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project  
   https://twitter.com/Nrg8000  
