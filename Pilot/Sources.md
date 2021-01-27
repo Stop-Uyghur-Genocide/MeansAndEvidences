@@ -30,7 +30,7 @@ a work in progress, last updated: 27/01/2021
     https://docs.uhrp.org/pdf/China's%20're-education'%20concentration%20camps%20in%20Xinjiang%20-%20BIBLIO.pdf
 * Campaign for Uyghurs: Resources  
   https://campaignforuyghurs.org/category/advocacy-resources/
-* Xinjiang Victim Database (by https://twitter.com/shahitbiz)  
+* Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz)  
   https://shahit.biz/eng/ 
 * @BadChinaTake works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
