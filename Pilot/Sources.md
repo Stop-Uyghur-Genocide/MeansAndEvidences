@@ -19,7 +19,7 @@ a work in progress, last updated: 08/01/2021
 * Timothy Grose @GroseTimothy, Rose‑Hulman Institute of Technology  
   https://twitter.com/GroseTimothy  
   https://www.rose-hulman.edu/academics/faculty/grose-timothy-grose.html
-* Darren Byler @dtbyler, University of Colorado Boulder 
+* Darren Byler @dtbyler, University of Colorado Boulder  
   https://colorado.academia.edu/DarrenByler  
 * Shawn Zhang @shawnwzhang  
   https://shawnzhang.ca/test/  
