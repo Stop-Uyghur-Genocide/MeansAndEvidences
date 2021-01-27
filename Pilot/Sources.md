@@ -8,23 +8,17 @@ a work in progress, last updated: 27/01/2021
   https://twitter.com/donaldcclarke/status/1346174689333358593  
   https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit#heading=h.iu0lxhhlgto8  
   https://donaldclarke.net/
-* The University of British Columbia: Xinjiang Documentation Projects    
-  https://twitter.com/ProjectXinjiang  
+* The University of British Columbia: Xinjiang Documentation Projects @ProjectXinjiang  
   https://xinjiang.sppga.ubc.ca/
 * ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project  
-  https://twitter.com/Nrg8000  
   https://xjdp.aspi.org.au/  
 * Adrian Zenz @adrianzenz, The Jamestown Foundation  
-  https://twitter.com/adrianzenz  
   https://jamestown.org/analyst/adrian-zenz/  
 * Dr Jo Smith Finley @j_smithfinley, Newcastle University  
-  https://twitter.com/j_smithfinley  
   https://www.ncl.ac.uk/sml/staff/profile/jsmithfinley.html#publications  
 * Timothy Grose @GroseTimothy, Rose‑Hulman Institute of Technology  
-  https://twitter.com/GroseTimothy  
   https://www.rose-hulman.edu/academics/faculty/grose-timothy-grose.html
 * Darren Byler @dtbyler, University of Colorado Boulder  
-  https://twitter.com/dtbyler  
   https://colorado.academia.edu/DarrenByler  
 * Shawn Zhang @shawnwzhang  
   https://shawnzhang.ca/test/  
