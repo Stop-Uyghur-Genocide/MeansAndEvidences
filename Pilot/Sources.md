@@ -22,8 +22,9 @@ a work in progress, last updated: 08/01/2021
 * Shawn Zhang @shawnwzhang  
   https://shawnzhang.ca/test/  
   https://medium.com/@shawnwzhang
-* Uyghur Human Rights Project: Reports and briefings  
-  https://uhrp.org/uhrp-reports
+* Uyghur Human Rights Project: 
+  * Reports and briefings  
+    https://uhrp.org/uhrp-reports
   * Bibliography of select news reports & academic works  
     https://docs.uhrp.org/pdf/China's%20're-education'%20concentration%20camps%20in%20Xinjiang%20-%20BIBLIO.pdf
 * Campaign for Uyghurs: Resources  
