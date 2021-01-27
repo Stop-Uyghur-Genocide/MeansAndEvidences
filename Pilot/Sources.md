@@ -11,10 +11,13 @@ a work in progress, last updated: 27/01/2021
 * The University of British Columbia: Xinjiang Documentation Projects    
   https://xinjiang.sppga.ubc.ca/
 * ASPI, Nathan Ruser @Nrg8000: The Xinjiang Data Project  
+  https://twitter.com/Nrg8000  
   https://xjdp.aspi.org.au/  
 * Adrian Zenz @adrianzenz, The Jamestown Foundation  
+  https://twitter.com/adrianzenz  
   https://jamestown.org/analyst/adrian-zenz/  
 * Dr Jo Smith Finley @j_smithfinley, Newcastle University  
+  https://twitter.com/j_smithfinley  
   https://www.ncl.ac.uk/sml/staff/profile/jsmithfinley.html#publications  
 * Timothy Grose @GroseTimothy, Rose‑Hulman Institute of Technology  
   https://twitter.com/GroseTimothy  
