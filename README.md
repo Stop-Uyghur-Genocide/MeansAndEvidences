@@ -15,7 +15,7 @@ The current stream of work is to create a [pilot](Pilot) version:
 
 * **Concept**: For a visual illustration of the concept see the [poster](Pilot/Concept/MeansAndEvidencesPoster.pdf) or the [diagram](Pilot/Concept/MeansAndEvidencesDiagram.pdf)
 * **Sources**: Publicly available [sources](Pilot/Sources.md) of the Uyghur genocide
-* **Brief report**: Pilot report is currently work in progress, see the [Report](Pilot/Report) folder
+* **Brief report**: Pilot [report](Pilot/Report/Report.pdf) is currently work in progress, see details in the [Report](Pilot/Report) folder
 * **InfoGraphic**: Not yet started
 
 ## Discussion
