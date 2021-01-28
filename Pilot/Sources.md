@@ -32,6 +32,8 @@ a work in progress, last updated: 27/01/2021
   https://campaignforuyghurs.org/category/advocacy-resources/
 * Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz)  
   https://shahit.biz/eng/ 
+* Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse)  
+  https://www.youtube.com/channel/UCxtHBfWaWYQPNgfvdvSDn4A
 * [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
 * [@csomgyula](https://twitter.com/csomgyula):  
