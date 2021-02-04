@@ -11,6 +11,3 @@ Workging draft, last updated: 09/01/2020
 - Create a pilot version of the [brief report](Report)
 - Create a pilot version of the [info graphic](InfoGraphic/InfoGraphic.png)
 - Define the work
-
-Follow **tasks** here: https://github.com/Stop-Uyghur-Genocide/MeansAndEvidences/projects/1
-
