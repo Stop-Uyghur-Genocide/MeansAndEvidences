@@ -1,5 +1,5 @@
 # Sources
-a work in progress, last updated: 27/01/2021
+a work in progress, last updated: 2021-02-04
 
 * Kelly Hammond @kellyahammond, Sophie Bonadeo [@sophiebonadeo](https://twitter.com/kellyahammond), University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
   https://twitter.com/kellyahammond/status/1346095065865846787  
@@ -29,7 +29,8 @@ a work in progress, last updated: 27/01/2021
   * Bibliography of select news reports & academic works  
     https://docs.uhrp.org/pdf/China's%20're-education'%20concentration%20camps%20in%20Xinjiang%20-%20BIBLIO.pdf
 * Campaign for Uyghurs: Resources  
-  https://campaignforuyghurs.org/category/advocacy-resources/
+  https://campaignforuyghurs.org/category/advocacy-resources/  
+  https://campaignforuyghurs.org/wp-content/uploads/2020/10/Genocide-Report-English-1.pdf
 * Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz)  
   https://shahit.biz/eng/ 
 * Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse)  
