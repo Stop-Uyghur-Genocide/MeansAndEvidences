@@ -1,6 +1,6 @@
 # Pilot
 
-Workging draft, last updated: 09/01/2020
+Workging draft, last updated: 2020-01-04
 
 **Goal**: Create an initial pilot version to learn and experiment
 
