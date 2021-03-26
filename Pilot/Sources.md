@@ -36,7 +36,7 @@ a work in progress, last updated: 2021-03-26
   https://shahit.biz/eng/ 
 * Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse)  
   https://www.youtube.com/channel/UCxtHBfWaWYQPNgfvdvSDn4A
-* UyghurAid 
+* UyghurAid  
   https://uyghuraid.org/testimonies  
 * [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
