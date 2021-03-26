@@ -1,5 +1,5 @@
 # Sources
-a work in progress, last updated: 2021-02-09
+a work in progress, last updated: 2021-03-26
 
 * Kelly Hammond @kellyahammond, Sophie Bonadeo [@sophiebonadeo](https://twitter.com/kellyahammond), University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
   https://twitter.com/kellyahammond/status/1346095065865846787  
@@ -36,6 +36,8 @@ a work in progress, last updated: 2021-02-09
   https://shahit.biz/eng/ 
 * Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse)  
   https://www.youtube.com/channel/UCxtHBfWaWYQPNgfvdvSDn4A
+* UyghurAid 
+  https://uyghuraid.org/testimonies  
 * [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
 * [@csomgyula](https://twitter.com/csomgyula):  
