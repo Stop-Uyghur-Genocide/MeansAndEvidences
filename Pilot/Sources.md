@@ -1,5 +1,5 @@
 # Sources
-a work in progress, last updated: 2021-02-04
+a work in progress, last updated: 2021-02-09
 
 * Kelly Hammond @kellyahammond, Sophie Bonadeo [@sophiebonadeo](https://twitter.com/kellyahammond), University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
   https://twitter.com/kellyahammond/status/1346095065865846787  
@@ -14,6 +14,7 @@ a work in progress, last updated: 2021-02-04
   https://xjdp.aspi.org.au/  
 * Adrian Zenz [@adrianzenz](https://twitter.com/adrianzenz), The Jamestown Foundation  
   https://jamestown.org/analyst/adrian-zenz/  
+  https://adrianzenz.medium.com/
 * Dr Jo Smith Finley [@j_smithfinley](https://twitter.com/j_smithfinley), Newcastle University  
   https://www.ncl.ac.uk/sml/staff/profile/jsmithfinley.html#publications  
 * Timothy Grose [@GroseTimothy](https://twitter.com/GroseTimothy), Rose‑Hulman Institute of Technology  
