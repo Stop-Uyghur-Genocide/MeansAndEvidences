@@ -20,7 +20,7 @@ The current stream of work is to create a [pilot](Pilot) version. It is currentl
 * **Brief report**: Done, see: [Report.pdf](https://raw.githubusercontent.com/Stop-Uyghur-Genocide/MeansAndEvidences/main/Pilot/Report/Report.pdf) 
 * **InfoGraphic**: Done, see: [InfoGraphic.png](https://raw.githubusercontent.com/Stop-Uyghur-Genocide/MeansAndEvidences/main/Pilot/InfoGraphic/InfoGraphic.png)
 
-Release is also available: [Pilot (PR)](/Stop-Uyghur-Genocide/MeansAndEvidences/releases/tag/Pilot_PR)
+Release is also available: [Pilot (PR)](https://github.com/Stop-Uyghur-Genocide/MeansAndEvidences/releases/tag/Pilot_PR)
 
 ## Discussion
 
