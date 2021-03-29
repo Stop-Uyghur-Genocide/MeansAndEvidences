@@ -1,6 +1,8 @@
 # Sources
 a work in progress, last updated: 2021-03-29
 
+## Western and Uyghur sources
+
 * Kelly Hammond @kellyahammond, Sophie Bonadeo [@sophiebonadeo](https://twitter.com/kellyahammond), University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
   https://twitter.com/kellyahammond/status/1346095065865846787  
   https://docs.google.com/document/d/1VMVPVrQD8LLrIp54foM99dHx-_KY1XJ9o4s48V3Xp8s/edit
@@ -51,3 +53,41 @@ See also these searches:
 * https://www.tandfonline.com/action/doSearch?AllField=Xinjiang+OR+Uyghur&AfterYear=2017 (papers)  
 * https://www.icij.org/?s=Xinjiang+or+Uyghur (news and investigative reports)  
 * https://www.hrw.org/publications?keyword=&country[]=9545 (reports)
+
+## Chinese sources
+
+* Regulations
+  * Xinjiang Uighur Autonomous Region Regulation on De-extremification  
+    https://www.chinalawtranslate.com/en/decision-to-revise-the-xinjiang-uighur-autonomous-region-regulation-on-de-extremification/  
+    http://xmsyj.xinjiang.gov.cn/xmsyj/jdszcfg/201804/2ca794a84baa4e2b8ad78ec5b7d62c61.shtml
+    https://www.xinjiang.gov.cn/xinjiang/fsljzcfg/201810/ce79abb87ad847cdaa7d1e4e07423358.shtml (unavailable?)
+  * Counter-Terrorism
+    * Counter-Terrorism Law (2015)  
+      https://www.chinalawtranslate.com/en/counter-terrorism-law-2015/
+    * Xinjiang Implementing Measures for the P.R.C. Counter-Terrorism Law (2018)
+      https://www.chinalawtranslate.com/en/xinjiang-implementing-measures-for-the-p-r-c-counter-terrorism-law-2018/
+      http://npc.people.com.cn/n1/2016/0801/c14576-28601824.html (2016) 
+  * Opinion
+    * Supreme People's Court, Supreme People's Procuratorate, Ministry of public security: Opinion on handling cases of terror and religious extremism (2014)  
+      https://www.chinalawtranslate.com/en/spc-spp-mps-opinion-on-terror-cases/  
+      https://www.spp.gov.cn/zdgz/201409/t20140922_80679.shtml
+    * Supreme People’s Procuratorate and other four departments: Opinions to guide the handling of terrorist and extremist crime cases in accordance with the law (2018)
+      https://www.spp.gov.cn/xwfbh/wsfbh/201806/t20180615_382007.shtml
+    * Opinions on Several Issues on the Application of Law in Cases of Terrorist Activities and Extremism Crimes  
+      https://www.chinalawtranslate.com/en/opinions-on-several-issues-on-the-application-of-law-in-cases-of-terrorist-activities-and-extremism-crimes/
+  * Protection of minors
+    * Law of the People's Republic of China on the Protection of Minors  
+      http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383869.htm
+    * Xinjiang, Implementation Measures of the Law on the Protection of Minors, 1993 -- Article 14 already bans religion for minor
+      http://www.npc.gov.cn/zgrdw/npc/zfjc/wcnzfjc/2008-08/05/content_1440992.htm
+  * Religious Affairs
+    * Regulations on Religious Affairs (2018)   
+      http://www.sara.gov.cn/flfg/330350.jhtml
+    * Regulations on Religious Affairs of the Xinjiang Uygur Autonomous Region (2014)  
+      http://www.xjtzb.gov.cn/system/2019/04/11/035640108.shtml
+* Interviews, white papers  
+  * Information Office of the State Council of the People's Republic of China: Xinjiang's Anti-Terrorism, De-radicalization Struggle and Human Rights Protection (March 2019) -- Since 2014, Xinjiang [...] arrested 12995 violent terrorists, seized 2,052 explosive devices, investigated and dealt with 4858 illegal religious activities involving 30,645 people, and seized 345,229 illegal religious propaganda materials.  
+  http://www.scio.gov.cn/ztk/dtzt/39912/40016/40027/Document/1649853/1649853.htm
+    
+ 
+    
