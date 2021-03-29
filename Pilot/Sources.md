@@ -64,7 +64,7 @@ See also these searches:
   * Counter-Terrorism
     * Counter-Terrorism Law (2015)  
       https://www.chinalawtranslate.com/en/counter-terrorism-law-2015/
-    * Xinjiang Implementing Measures for the P.R.C. Counter-Terrorism Law (2018)
+    * Xinjiang Implementing Measures for the P.R.C. Counter-Terrorism Law (2018)  
       https://www.chinalawtranslate.com/en/xinjiang-implementing-measures-for-the-p-r-c-counter-terrorism-law-2018/  
       http://npc.people.com.cn/n1/2016/0801/c14576-28601824.html (2016) 
   * Opinion
