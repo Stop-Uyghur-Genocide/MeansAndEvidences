@@ -86,8 +86,24 @@ See also these searches:
     * Regulations on Religious Affairs of the Xinjiang Uygur Autonomous Region (2014)  
       http://www.xjtzb.gov.cn/system/2019/04/11/035640108.shtml
 * Interviews, white papers  
-  * Information Office of the State Council of the People's Republic of China: Xinjiang's Anti-Terrorism, De-radicalization Struggle and Human Rights Protection (March 2019) -- Since 2014, Xinjiang [...] arrested 12995 violent terrorists, seized 2,052 explosive devices, investigated and dealt with 4858 illegal religious activities involving 30,645 people, and seized 345,229 illegal religious propaganda materials.  
+  * The State Council Information Office of the People's Republic of China: Xinjiang's Anti-Terrorism, De-radicalization Struggle and Human Rights Protection (March 2019) -- Since 2014, Xinjiang [...] arrested 12995 violent terrorists, seized 2,052 explosive devices, investigated and dealt with 4858 illegal religious activities involving 30,645 people, and seized 345,229 illegal religious propaganda materials.  
   http://www.scio.gov.cn/ztk/dtzt/39912/40016/40027/Document/1649853/1649853.htm
-    
- 
-    
+* Re-education  
+    * The State Council Information Office of the People's Republic of China: Employment and Labor Rights in Xinjiang (2020)  -- Every year from 2014 to 2019 Xinjiang provided training sessions to an average of 1.29 million urban and rural workers...
+      http://www.scio.gov.cn/zfbps/32832/Document/1687593/1687593.htm
+    * The State Council Information Office of the People's Republic of China: Vocational Education and Training in Xinjiang (2019) -- Xinjiang has established vocational education and training centers in accordance with the law to prevent the breeding and spread of terrorism and religious extremism.  
+      https://www.fmprc.gov.cn/ce/cegv/eng/zywjyjh/t1692588.htm
+    * Xinhua: Interview with Xinjiang government chief on counterterrorism, vocational education and training in Xinjiang (2018) -- Xinjiang has launched a vocational education and training program according to the law. Its purpose is to get rid of the environment and soil that breeds terrorism and religious extremism and stop violent terrorist activities from happening.  
+      http://www.xinhuanet.com/english/2018-10/16/c_137535821.htm
+    * Hu Xijin 胡锡进, Editor-in-chief of the Global Times -- I have learned the number of people who are receiving de-extremism education at vocational training centers in Xinjiang. I am not authorized to disclose this figure. All I can say is that it is much fewer than “1 million or so” speculated by the outside world.  
+      https://twitter.com/HuXijin_GT/status/1051837551063916544
+ * Birth control
+   * CHINA DAILY: Eradication of extremism has given Xinjiang women more autonomy, says report (2021) -- In the process of eradicating extremism, the minds of Uygur women were emancipated and gender equality and reproductive health were promoted, making them no long baby-making machines
+     https://www.chinadaily.com.cn/a/202101/07/WS5ff6fb03a31024ad0baa134a.html
+   * Statistics
+     * National Bureau of Statistics of China: Annual data (report)    
+       http://www.stats.gov.cn/english/Statisticaldata/AnnualData/ 
+     * National Bureau of Statistics of China: Annual data (query)  
+       https://data.stats.gov.cn/english/easyquery.htm?cn=E0103  
+     * Chongqing Bureau of Statistics: Explanatory Notes on Main Statistical Indicators  
+       http://tjj.cq.gov.cn/tjnj/2019/zk/html/zbe03.htm
