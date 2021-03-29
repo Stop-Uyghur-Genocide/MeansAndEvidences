@@ -40,6 +40,8 @@ a work in progress, last updated: 2021-03-29
   https://www.rose-hulman.edu/academics/faculty/grose-timothy-grose.html
 * Darren Byler [@dtbyler](https://twitter.com/dtbyler), University of Colorado Boulder  
   https://colorado.academia.edu/DarrenByler  
+* Newlines Institute: The Uyghur Genocide: An Examination of China’s Breaches of the 1948 Genocide Convention (2021)  
+  https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/
 * Shawn Zhang [@shawnwzhang](https://twitter.com/shawnwzhang)  
   https://shawnzhang.ca/test/  
   https://medium.com/@shawnwzhang
