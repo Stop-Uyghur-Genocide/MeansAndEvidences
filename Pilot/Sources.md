@@ -103,18 +103,20 @@ See also these searches:
    * CHINA DAILY: Eradication of extremism has given Xinjiang women more autonomy, says report (2021) -- In the process of eradicating extremism, the minds of Uygur women were emancipated and gender equality and reproductive health were promoted, making them no long baby-making machines  
      https://www.chinadaily.com.cn/a/202101/07/WS5ff6fb03a31024ad0baa134a.html
    * Statistics
-     * National Bureau of Statistics of China: Annual data (report)    
-       http://www.stats.gov.cn/english/Statisticaldata/AnnualData/ 
+     * National Statistics
+       * National Bureau of Statistics of China: Annual data (report)    
+         http://www.stats.gov.cn/english/Statisticaldata/AnnualData/ 
        * China Statistical Yearbook 2020 (not included in the above index)  
          http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm
-     * National Bureau of Statistics of China: Annual data (query)  
-       https://data.stats.gov.cn/english/easyquery.htm?cn=E0103  
-     * Chongqing Bureau of Statistics: Explanatory Notes on Main Statistical Indicators  
-       http://tjj.cq.gov.cn/tjnj/2019/zk/html/zbe03.htm
+       * National Bureau of Statistics of China: Annual data (query)  
+         https://data.stats.gov.cn/english/easyquery.htm?cn=E0103  
+       * Chongqing Bureau of Statistics: Explanatory Notes on Main Statistical Indicators  
+         http://tjj.cq.gov.cn/tjnj/2019/zk/html/zbe03.htm
+     * Xinjiang Statistics
+       * Xinjiang Statistical Yearbook 2016  
+         http://tjj.xinjiang.gov.cn/tjj/rkjy/list_nj2.shtml
+       * Xinjiang Statistical Yearbook 2019  
+         http://tjj.xinjiang.gov.cn/tjj/zhhv/list_nj1.shtml
      * Guo, Rongxing: China Ethnic Statistical Yearbook 2020  
        https://www.researchgate.net/publication/344210956_China_Ethnic_Statistical_Yearbook_2020 (overview)  
        https://www.amazon.com/China-Ethnic-Statistical-Yearbook-2020/dp/3030490238 (buy)
-     * Xinjiang Statistical Yearbook 2016  
-       http://tjj.xinjiang.gov.cn/tjj/rkjy/list_nj2.shtml
-     * Xinjiang Statistical Yearbook 2019  
-       http://tjj.xinjiang.gov.cn/tjj/zhhv/list_nj1.shtml
