@@ -97,7 +97,7 @@ See also these searches:
   * Hu Xijin 胡锡进, Editor-in-chief of the Global Times -- I have learned the number of people who are receiving de-extremism education at vocational training centers in Xinjiang. I am not authorized to disclose this figure. All I can say is that it is much fewer than “1 million or so” speculated by the outside world.  
     https://twitter.com/HuXijin_GT/status/1051837551063916544
  * Birth control
-   * CHINA DAILY: Eradication of extremism has given Xinjiang women more autonomy, says report (2021) -- In the process of eradicating extremism, the minds of Uygur women were emancipated and gender equality and reproductive health were promoted, making them no long baby-making machines
+   * CHINA DAILY: Eradication of extremism has given Xinjiang women more autonomy, says report (2021) -- In the process of eradicating extremism, the minds of Uygur women were emancipated and gender equality and reproductive health were promoted, making them no long baby-making machines  
      https://www.chinadaily.com.cn/a/202101/07/WS5ff6fb03a31024ad0baa134a.html
    * Statistics
      * National Bureau of Statistics of China: Annual data (report)    
