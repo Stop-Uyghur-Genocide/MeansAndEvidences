@@ -45,7 +45,7 @@ a work in progress, last updated: 2021-03-29
   https://medium.com/@shawnwzhang
 * [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
-* [@csomgyula](https://twitter.com/csomgyula):  
+* [@csomgyula](https://twitter.com/csomgyula)  
   Public evidences on the Uyghur genocide  
   https://twitter.com/csomgyula/status/1305797763377041409  
   Thread about the Chinese propaganda machine with a special focus on the Uyghur genocide  
