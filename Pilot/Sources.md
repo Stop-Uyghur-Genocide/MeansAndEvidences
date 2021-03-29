@@ -120,8 +120,8 @@ See also these searches:
      * Guo, Rongxing: China Ethnic Statistical Yearbook 2020  
        https://www.researchgate.net/publication/344210956_China_Ethnic_Statistical_Yearbook_2020 (overview)  
        https://www.amazon.com/China-Ethnic-Statistical-Yearbook-2020/dp/3030490238 (buy)
-   * Labor
-     * Xinjiang relocates 460k residents (2018)  
-       https://www.globaltimes.cn/content/1109761.shtml
-     * China Institute of Wealth and Economics, Nankai University: Work Report on Poverty Alleviation Work by Uyghur Labor Force Transfer in Hotan, Xinjiang  
-       http://web.archive.org/web/20200507161938/https:/ciwe.nankai.edu.cn/2019/1223/c18571a259225/page.htm
+* Labor
+  * Xinjiang relocates 460k residents (2018)  
+    https://www.globaltimes.cn/content/1109761.shtml
+  * China Institute of Wealth and Economics, Nankai University: Work Report on Poverty Alleviation Work by Uyghur Labor Force Transfer in Hotan, Xinjiang  
+    http://web.archive.org/web/20200507161938/https:/ciwe.nankai.edu.cn/2019/1223/c18571a259225/page.htm
