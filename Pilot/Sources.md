@@ -106,3 +106,6 @@ See also these searches:
        https://data.stats.gov.cn/english/easyquery.htm?cn=E0103  
      * Chongqing Bureau of Statistics: Explanatory Notes on Main Statistical Indicators  
        http://tjj.cq.gov.cn/tjnj/2019/zk/html/zbe03.htm
+     * Guo, Rongxing: China Ethnic Statistical Yearbook 2020  
+       https://www.researchgate.net/publication/344210956_China_Ethnic_Statistical_Yearbook_2020 (overview)  
+       https://www.amazon.com/China-Ethnic-Statistical-Yearbook-2020/dp/3030490238 (buy)
