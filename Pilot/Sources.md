@@ -1,7 +1,24 @@
 # Sources
 a work in progress, last updated: 2021-03-29
 
-## Western and Uyghur sources
+## Uyghur sources
+
+* Uyghur Human Rights Project: 
+  * Reports and briefings  
+    https://uhrp.org/uhrp-reports
+  * Bibliography of select news reports & academic works  
+    https://docs.uhrp.org/pdf/China's%20're-education'%20concentration%20camps%20in%20Xinjiang%20-%20BIBLIO.pdf
+* Campaign for Uyghurs: Resources  
+  https://campaignforuyghurs.org/category/advocacy-resources/  
+  https://campaignforuyghurs.org/wp-content/uploads/2020/10/Genocide-Report-English-1.pdf
+* Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz)  
+  https://shahit.biz/eng/ 
+* Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse)  
+  https://www.youtube.com/channel/UCxtHBfWaWYQPNgfvdvSDn4A
+* UyghurAid  
+  https://uyghuraid.org/testimonies  
+  
+## Western sources
 
 * Kelly Hammond @kellyahammond, Sophie Bonadeo [@sophiebonadeo](https://twitter.com/kellyahammond), University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
   https://twitter.com/kellyahammond/status/1346095065865846787  
@@ -26,20 +43,6 @@ a work in progress, last updated: 2021-03-29
 * Shawn Zhang [@shawnwzhang](https://twitter.com/shawnwzhang)  
   https://shawnzhang.ca/test/  
   https://medium.com/@shawnwzhang
-* Uyghur Human Rights Project: 
-  * Reports and briefings  
-    https://uhrp.org/uhrp-reports
-  * Bibliography of select news reports & academic works  
-    https://docs.uhrp.org/pdf/China's%20're-education'%20concentration%20camps%20in%20Xinjiang%20-%20BIBLIO.pdf
-* Campaign for Uyghurs: Resources  
-  https://campaignforuyghurs.org/category/advocacy-resources/  
-  https://campaignforuyghurs.org/wp-content/uploads/2020/10/Genocide-Report-English-1.pdf
-* Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz)  
-  https://shahit.biz/eng/ 
-* Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse)  
-  https://www.youtube.com/channel/UCxtHBfWaWYQPNgfvdvSDn4A
-* UyghurAid  
-  https://uyghuraid.org/testimonies  
 * [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
 * [@csomgyula](https://twitter.com/csomgyula):  
