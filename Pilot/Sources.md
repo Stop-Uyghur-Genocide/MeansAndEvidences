@@ -83,7 +83,7 @@ See also these searches:
   * Protection of minors
     * Law of the People's Republic of China on the Protection of Minors  
       http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383869.htm
-    * Xinjiang, Implementation Measures of the Law on the Protection of Minors, 1993 -- Article 14 already bans religion for minor
+    * Xinjiang, Implementation Measures of the Law on the Protection of Minors, 1993 -- Article 14 already bans religion for minors
       http://www.npc.gov.cn/zgrdw/npc/zfjc/wcnzfjc/2008-08/05/content_1440992.htm
   * Religious Affairs
     * Regulations on Religious Affairs (2018)   
