@@ -59,19 +59,19 @@ See also these searches:
 * Regulations
   * Xinjiang Uighur Autonomous Region Regulation on De-extremification  
     https://www.chinalawtranslate.com/en/decision-to-revise-the-xinjiang-uighur-autonomous-region-regulation-on-de-extremification/  
-    http://xmsyj.xinjiang.gov.cn/xmsyj/jdszcfg/201804/2ca794a84baa4e2b8ad78ec5b7d62c61.shtml
+    http://xmsyj.xinjiang.gov.cn/xmsyj/jdszcfg/201804/2ca794a84baa4e2b8ad78ec5b7d62c61.shtml  
     https://www.xinjiang.gov.cn/xinjiang/fsljzcfg/201810/ce79abb87ad847cdaa7d1e4e07423358.shtml (unavailable?)
   * Counter-Terrorism
     * Counter-Terrorism Law (2015)  
       https://www.chinalawtranslate.com/en/counter-terrorism-law-2015/
     * Xinjiang Implementing Measures for the P.R.C. Counter-Terrorism Law (2018)
-      https://www.chinalawtranslate.com/en/xinjiang-implementing-measures-for-the-p-r-c-counter-terrorism-law-2018/
+      https://www.chinalawtranslate.com/en/xinjiang-implementing-measures-for-the-p-r-c-counter-terrorism-law-2018/  
       http://npc.people.com.cn/n1/2016/0801/c14576-28601824.html (2016) 
   * Opinion
     * Supreme People's Court, Supreme People's Procuratorate, Ministry of public security: Opinion on handling cases of terror and religious extremism (2014)  
       https://www.chinalawtranslate.com/en/spc-spp-mps-opinion-on-terror-cases/  
       https://www.spp.gov.cn/zdgz/201409/t20140922_80679.shtml
-    * Supreme People’s Procuratorate and other four departments: Opinions to guide the handling of terrorist and extremist crime cases in accordance with the law (2018)
+    * Supreme People’s Procuratorate and other four departments: Opinions to guide the handling of terrorist and extremist crime cases in accordance with the law (2018)  
       https://www.spp.gov.cn/xwfbh/wsfbh/201806/t20180615_382007.shtml
     * Opinions on Several Issues on the Application of Law in Cases of Terrorist Activities and Extremism Crimes  
       https://www.chinalawtranslate.com/en/opinions-on-several-issues-on-the-application-of-law-in-cases-of-terrorist-activities-and-extremism-crimes/
