@@ -85,10 +85,9 @@ See also these searches:
       http://www.sara.gov.cn/flfg/330350.jhtml
     * Regulations on Religious Affairs of the Xinjiang Uygur Autonomous Region (2014)  
       http://www.xjtzb.gov.cn/system/2019/04/11/035640108.shtml
-* Interviews, white papers  
+* Re-education    
   * The State Council Information Office of the People's Republic of China: Xinjiang's Anti-Terrorism, De-radicalization Struggle and Human Rights Protection (March 2019) -- Since 2014, Xinjiang [...] arrested 12995 violent terrorists, seized 2,052 explosive devices, investigated and dealt with 4858 illegal religious activities involving 30,645 people, and seized 345,229 illegal religious propaganda materials.  
   http://www.scio.gov.cn/ztk/dtzt/39912/40016/40027/Document/1649853/1649853.htm
-* Re-education  
     * The State Council Information Office of the People's Republic of China: Employment and Labor Rights in Xinjiang (2020)  -- Every year from 2014 to 2019 Xinjiang provided training sessions to an average of 1.29 million urban and rural workers...
       http://www.scio.gov.cn/zfbps/32832/Document/1687593/1687593.htm
     * The State Council Information Office of the People's Republic of China: Vocational Education and Training in Xinjiang (2019) -- Xinjiang has established vocational education and training centers in accordance with the law to prevent the breeding and spread of terrorism and religious extremism.  
