@@ -11,11 +11,11 @@ a work in progress, last updated: 2021-03-29
 * Campaign for Uyghurs: Resources  
   https://campaignforuyghurs.org/category/advocacy-resources/  
   https://campaignforuyghurs.org/wp-content/uploads/2020/10/Genocide-Report-English-1.pdf
-* Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz)  
+* Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz) - over 10,000 victim record   
   https://shahit.biz/eng/ 
-* Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse)  
+* Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse) -- over 1000 video testimonies   
   https://www.youtube.com/channel/UCxtHBfWaWYQPNgfvdvSDn4A
-* UyghurAid  
+* UyghurAid -- over 300 video testimonies   
   https://uyghuraid.org/testimonies  
   
 ## Western sources
