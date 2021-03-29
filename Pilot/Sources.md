@@ -102,6 +102,8 @@ See also these searches:
    * Statistics
      * National Bureau of Statistics of China: Annual data (report)    
        http://www.stats.gov.cn/english/Statisticaldata/AnnualData/ 
+       * China Statistical Yearbook 2020 (not included in the above index)  
+         http://www.stats.gov.cn/tjsj/ndsj/2020/indexeh.htm
      * National Bureau of Statistics of China: Annual data (query)  
        https://data.stats.gov.cn/english/easyquery.htm?cn=E0103  
      * Chongqing Bureau of Statistics: Explanatory Notes on Main Statistical Indicators  
