@@ -114,3 +114,7 @@ See also these searches:
      * Guo, Rongxing: China Ethnic Statistical Yearbook 2020  
        https://www.researchgate.net/publication/344210956_China_Ethnic_Statistical_Yearbook_2020 (overview)  
        https://www.amazon.com/China-Ethnic-Statistical-Yearbook-2020/dp/3030490238 (buy)
+     * Xinjiang Statistical Yearbook 2016  
+       http://tjj.xinjiang.gov.cn/tjj/rkjy/list_nj2.shtml
+     * Xinjiang Statistical Yearbook 2019  
+       http://tjj.xinjiang.gov.cn/tjj/zhhv/list_nj1.shtml
