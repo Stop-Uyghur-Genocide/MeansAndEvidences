@@ -65,7 +65,10 @@ See also these searches:
   https://medium.com/@shawnwzhang
 * Chinese For Uyghurs [@chinese4uyghurs](https://twitter.com/chinese4uyghurs)   
   https://chineseforuyghurs.wordpress.com/  
-  
+* Vicky Xu [@xu_xiuzhong](https://twitter.com/xu_xiuzhong)  
+  https://www.vickyxu.com/
+* https://www.talkaboutxinjiang.com/
+ 
 ## Chinese goverment sources
 
 * Regulations
