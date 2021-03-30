@@ -42,10 +42,7 @@ a work in progress, last updated: 2021-03-30
   https://colorado.academia.edu/DarrenByler  
 * Newlines Institute: The Uyghur Genocide: An Examination of China’s Breaches of the 1948 Genocide Convention (2021)  
   https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/
-* Shawn Zhang [@shawnwzhang](https://twitter.com/shawnwzhang)  
-  https://shawnzhang.ca/test/  
-  https://medium.com/@shawnwzhang
-* Olsi Jazexhi @OlsiJ  
+* Olsi Jazexhi [@OlsiJ](https://twitter.com/OlsiJ)  
   https://olsijazexhi.wordpress.com/?s=Uyghur
 * [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
@@ -61,8 +58,15 @@ See also these searches:
 * https://www.icij.org/?s=Xinjiang+or+Uyghur (news and investigative reports)  
 * https://www.hrw.org/publications?keyword=&country[]=9545 (reports)
 
+## Chinese community sources
 
-## Chinese sources
+* Shawn Zhang [@shawnwzhang](https://twitter.com/shawnwzhang)  
+  https://shawnzhang.ca/test/  
+  https://medium.com/@shawnwzhang
+* Chinese For Uyghurs [@chinese4uyghurs](https://twitter.com/chinese4uyghurs)   
+  https://chineseforuyghurs.wordpress.com/  
+  
+## Chinese goverment sources
 
 * Regulations
   * Xinjiang Uighur Autonomous Region Regulation on De-extremification  
