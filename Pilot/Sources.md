@@ -28,7 +28,8 @@ a work in progress, last updated: 2021-03-30
 * Vicky Xu [@xu_xiuzhong](https://twitter.com/xu_xiuzhong)  
   https://www.vickyxu.com/  
   https://www.aspi.org.au/report/uyghurs-sale
-* https://www.talkaboutxinjiang.com/
+* TALKING ABOUT XINJIANG 我们一起来谈谈新疆  
+  https://www.talkaboutxinjiang.com/
  
 ## Chinese goverment sources
 
