@@ -26,7 +26,8 @@ a work in progress, last updated: 2021-03-30
 * Chinese For Uyghurs [@chinese4uyghurs](https://twitter.com/chinese4uyghurs)   
   https://chineseforuyghurs.wordpress.com/  
 * Vicky Xu [@xu_xiuzhong](https://twitter.com/xu_xiuzhong)  
-  https://www.vickyxu.com/
+  https://www.vickyxu.com/  
+  https://www.aspi.org.au/report/uyghurs-sale
 * https://www.talkaboutxinjiang.com/
  
 ## Chinese goverment sources
@@ -113,6 +114,7 @@ a work in progress, last updated: 2021-03-30
   https://xinjiang.sppga.ubc.ca/
 * ASPI, Nathan Ruser [@Nrg8000](https://twitter.com/Nrg8000): The Xinjiang Data Project  
   https://xjdp.aspi.org.au/  
+  https://www.aspi.org.au/report/uyghurs-sale
 * Adrian Zenz [@adrianzenz](https://twitter.com/adrianzenz), The Jamestown Foundation  
   https://jamestown.org/analyst/adrian-zenz/  
   https://adrianzenz.medium.com/
