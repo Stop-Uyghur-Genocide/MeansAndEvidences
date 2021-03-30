@@ -1,5 +1,5 @@
 # Sources
-a work in progress, last updated: 2021-03-29
+a work in progress, last updated: 2021-03-30
 
 ## Uyghur sources
 
@@ -45,6 +45,8 @@ a work in progress, last updated: 2021-03-29
 * Shawn Zhang [@shawnwzhang](https://twitter.com/shawnwzhang)  
   https://shawnzhang.ca/test/  
   https://medium.com/@shawnwzhang
+* Olsi Jazexhi @OlsiJ  
+  https://olsijazexhi.wordpress.com/?s=Uyghur
 * [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
 * [@csomgyula](https://twitter.com/csomgyula)  
@@ -58,6 +60,7 @@ See also these searches:
 * https://www.tandfonline.com/action/doSearch?AllField=Xinjiang+OR+Uyghur&AfterYear=2017 (papers)  
 * https://www.icij.org/?s=Xinjiang+or+Uyghur (news and investigative reports)  
 * https://www.hrw.org/publications?keyword=&country[]=9545 (reports)
+
 
 ## Chinese sources
 
