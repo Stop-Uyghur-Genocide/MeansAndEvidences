@@ -17,46 +17,6 @@ a work in progress, last updated: 2021-03-30
 * Campaign for Uyghurs: Resources  
   https://campaignforuyghurs.org/category/advocacy-resources/  
   https://campaignforuyghurs.org/wp-content/uploads/2020/10/Genocide-Report-English-1.pdf
-  
-## Western sources
-
-* Kelly Hammond @kellyahammond, Sophie Bonadeo [@sophiebonadeo](https://twitter.com/kellyahammond), University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
-  https://twitter.com/kellyahammond/status/1346095065865846787  
-  https://docs.google.com/document/d/1VMVPVrQD8LLrIp54foM99dHx-_KY1XJ9o4s48V3Xp8s/edit
-* Donald Clarke 郭丹青 [@donaldcclarke](https://twitter.com/donaldcclarke): Mass Detentions and Repression in Xinjiang: A Bibliography  
-  https://twitter.com/donaldcclarke/status/1346174689333358593  
-  https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit#heading=h.iu0lxhhlgto8  
-  https://donaldclarke.net/
-* The University of British Columbia: Xinjiang Documentation Projects [@ProjectXinjiang](https://twitter.com/ProjectXinjiang)  
-  https://xinjiang.sppga.ubc.ca/
-* ASPI, Nathan Ruser [@Nrg8000](https://twitter.com/Nrg8000): The Xinjiang Data Project  
-  https://xjdp.aspi.org.au/  
-* Adrian Zenz [@adrianzenz](https://twitter.com/adrianzenz), The Jamestown Foundation  
-  https://jamestown.org/analyst/adrian-zenz/  
-  https://adrianzenz.medium.com/
-* Dr Jo Smith Finley [@j_smithfinley](https://twitter.com/j_smithfinley), Newcastle University  
-  https://www.ncl.ac.uk/sml/staff/profile/jsmithfinley.html#publications  
-* Timothy Grose [@GroseTimothy](https://twitter.com/GroseTimothy), Rose‑Hulman Institute of Technology  
-  https://www.rose-hulman.edu/academics/faculty/grose-timothy-grose.html
-* Darren Byler [@dtbyler](https://twitter.com/dtbyler), University of Colorado Boulder  
-  https://colorado.academia.edu/DarrenByler  
-* Newlines Institute: The Uyghur Genocide: An Examination of China’s Breaches of the 1948 Genocide Convention (2021)  
-  https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/
-* Olsi Jazexhi [@OlsiJ](https://twitter.com/OlsiJ)  
-  https://olsijazexhi.wordpress.com/?s=Uyghur
-* [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
-  https://twitter.com/BadChinaTake/status/1344772564871221249
-* [@csomgyula](https://twitter.com/csomgyula)  
-  Public evidences on the Uyghur genocide  
-  https://twitter.com/csomgyula/status/1305797763377041409  
-  Thread about the Chinese propaganda machine with a special focus on the Uyghur genocide  
-  https://twitter.com/csomgyula/status/1310214293783281664
-
-See also these searches:  
-
-* https://www.tandfonline.com/action/doSearch?AllField=Xinjiang+OR+Uyghur&AfterYear=2017 (papers)  
-* https://www.icij.org/?s=Xinjiang+or+Uyghur (news and investigative reports)  
-* https://www.hrw.org/publications?keyword=&country[]=9545 (reports)
 
 ## Chinese community sources
 
@@ -139,3 +99,43 @@ See also these searches:
     https://www.globaltimes.cn/content/1109761.shtml
   * China Institute of Wealth and Economics, Nankai University: Work Report on Poverty Alleviation Work by Uyghur Labor Force Transfer in Hotan, Xinjiang (2019)  
     http://web.archive.org/web/20200507161938/https:/ciwe.nankai.edu.cn/2019/1223/c18571a259225/page.htm
+
+## Western sources
+
+* Kelly Hammond @kellyahammond, Sophie Bonadeo [@sophiebonadeo](https://twitter.com/kellyahammond), University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
+  https://twitter.com/kellyahammond/status/1346095065865846787  
+  https://docs.google.com/document/d/1VMVPVrQD8LLrIp54foM99dHx-_KY1XJ9o4s48V3Xp8s/edit
+* Donald Clarke 郭丹青 [@donaldcclarke](https://twitter.com/donaldcclarke): Mass Detentions and Repression in Xinjiang: A Bibliography  
+  https://twitter.com/donaldcclarke/status/1346174689333358593  
+  https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit#heading=h.iu0lxhhlgto8  
+  https://donaldclarke.net/
+* The University of British Columbia: Xinjiang Documentation Projects [@ProjectXinjiang](https://twitter.com/ProjectXinjiang)  
+  https://xinjiang.sppga.ubc.ca/
+* ASPI, Nathan Ruser [@Nrg8000](https://twitter.com/Nrg8000): The Xinjiang Data Project  
+  https://xjdp.aspi.org.au/  
+* Adrian Zenz [@adrianzenz](https://twitter.com/adrianzenz), The Jamestown Foundation  
+  https://jamestown.org/analyst/adrian-zenz/  
+  https://adrianzenz.medium.com/
+* Dr Jo Smith Finley [@j_smithfinley](https://twitter.com/j_smithfinley), Newcastle University  
+  https://www.ncl.ac.uk/sml/staff/profile/jsmithfinley.html#publications  
+* Timothy Grose [@GroseTimothy](https://twitter.com/GroseTimothy), Rose‑Hulman Institute of Technology  
+  https://www.rose-hulman.edu/academics/faculty/grose-timothy-grose.html
+* Darren Byler [@dtbyler](https://twitter.com/dtbyler), University of Colorado Boulder  
+  https://colorado.academia.edu/DarrenByler  
+* Newlines Institute: The Uyghur Genocide: An Examination of China’s Breaches of the 1948 Genocide Convention (2021)  
+  https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/
+* Olsi Jazexhi [@OlsiJ](https://twitter.com/OlsiJ)  
+  https://olsijazexhi.wordpress.com/?s=Uyghur
+* [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
+  https://twitter.com/BadChinaTake/status/1344772564871221249
+* [@csomgyula](https://twitter.com/csomgyula)  
+  Public evidences on the Uyghur genocide  
+  https://twitter.com/csomgyula/status/1305797763377041409  
+  Thread about the Chinese propaganda machine with a special focus on the Uyghur genocide  
+  https://twitter.com/csomgyula/status/1310214293783281664
+
+See also these searches:  
+
+* https://www.tandfonline.com/action/doSearch?AllField=Xinjiang+OR+Uyghur&AfterYear=2017 (papers)  
+* https://www.icij.org/?s=Xinjiang+or+Uyghur (news and investigative reports)  
+* https://www.hrw.org/publications?keyword=&country[]=9545 (reports)
