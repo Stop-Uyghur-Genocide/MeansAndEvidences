@@ -130,7 +130,8 @@ a work in progress, last updated: 2021-03-31
 * Newlines Institute: The Uyghur Genocide: An Examination of China’s Breaches of the 1948 Genocide Convention (2021)  
   https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/
 * Olsi Jazexhi [@OlsiJ](https://twitter.com/OlsiJ)  
-  https://olsijazexhi.wordpress.com/?s=Uyghur
+  https://olsijazexhi.wordpress.com/?s=Uyghur  
+  https://www.youtube.com/watch?v=txhZ-DXQAzs
 * [@BadChinaTake](https://twitter.com/BadChinaTake) works on Xinjiang document translations  
   https://twitter.com/BadChinaTake/status/1344772564871221249
 * [@csomgyula](https://twitter.com/csomgyula)  
