@@ -125,6 +125,8 @@ a work in progress, last updated: 2021-03-30
   https://www.rose-hulman.edu/academics/faculty/grose-timothy-grose.html
 * Darren Byler [@dtbyler](https://twitter.com/dtbyler), University of Colorado Boulder  
   https://colorado.academia.edu/DarrenByler  
+* Donald Clarke [@donaldcclarke](https://twitter.com/donaldcclarke): No, New Xinjiang Legislation Does not Legalize Detention Centers (2018)
+  https://www.lawfareblog.com/no-new-xinjiang-legislation-does-not-legalize-detention-centers  
 * Newlines Institute: The Uyghur Genocide: An Examination of China’s Breaches of the 1948 Genocide Convention (2021)  
   https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/
 * Olsi Jazexhi [@OlsiJ](https://twitter.com/OlsiJ)  
