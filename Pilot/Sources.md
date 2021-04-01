@@ -109,13 +109,16 @@ Leaked and archived sources:
 
 * Xinjiang Victim Database collected primary evidencies such as court orders, diplomatic communication, investigation announcment and state media reports  
   https://shahit.biz/eng/#evidence
-* The China Cables - leaked secret Chinese government from 2017  
+* The China Cables - leaked secret Chinese government from 2017 (2019)  
   https://en.wikipedia.org/wiki/China_Cables 
-* The Aksu list - leaked list of over 2,000 detainees from Aksu prefecture   
+* The Aksu list - leaked list of over 2,000 detainees from Aksu prefecture (2020)   
   https://www.hrw.org/news/2020/12/09/china-big-data-program-targets-xinjiangs-muslims
-* Karakax List - leaked records of mass detention from Qaraqash, Hotan
+* Karakax List - leaked records of mass detention from Qaraqash, Hotan (2020)   
   https://docs.uhrp.org/pdf/UHRP_QaraqashDocument.pdf 
-* Adrian Zenz's following article, "Sterilizations, IUDs, and Coercive Birth Prevention: The CCP’s Campaign to Suppress Uyghur Birth Rates in Xinjiang" has many archived references about the subject of forced birth control   
+* Millions of Leaked Police Files Detail Suffocating Surveillance of China’s Uyghur Minority (2021)  
+  https://theintercept.com/2021/01/29/china-uyghur-muslim-surveillance-police/  
+  https://www.documentcloud.org/app?q=project%3Armqi-china-police-data-201624%20
+* Adrian Zenz's following article, "Sterilizations, IUDs, and Coercive Birth Prevention: The CCP’s Campaign to Suppress Uyghur Birth Rates in Xinjiang" has many archived references about the subject of forced birth control (2020)   
   https://jamestown.org/program/sterilizations-iuds-and-mandatory-birth-control-the-ccps-campaign-to-suppress-uyghur-birth-rates-in-xinjiang/
        
 ## Western sources
