@@ -120,6 +120,9 @@ Leaked and archived sources:
 * Millions of Leaked Police Files Detail Suffocating Surveillance of China’s Uyghur Minority (2021)  
   https://theintercept.com/2021/01/29/china-uyghur-muslim-surveillance-police/  
   https://www.documentcloud.org/app?q=project%3Armqi-china-police-data-201624%20
+* PSB data leak  
+  https://www.abc.net.au/news/2021-04-01/shanghai-files-shed-light-on-china-surveillance-state/100040896  
+  https://www.internet2-0.com/ (see PSB Data Leak section)
 * Adrian Zenz's following article, "Sterilizations, IUDs, and Coercive Birth Prevention: The CCP’s Campaign to Suppress Uyghur Birth Rates in Xinjiang" has many archived references about the subject of forced birth control (2020)   
   https://jamestown.org/program/sterilizations-iuds-and-mandatory-birth-control-the-ccps-campaign-to-suppress-uyghur-birth-rates-in-xinjiang/
        
