@@ -103,7 +103,7 @@ Publicly available official sources:
   * China Institute of Wealth and Economics, Nankai University: Work Report on Poverty Alleviation Work by Uyghur Labor Force Transfer in Hotan, Xinjiang (2019)  
     http://web.archive.org/web/20200507161938/https:/ciwe.nankai.edu.cn/2019/1223/c18571a259225/page.htm
 
-### Alleged Chinese government sources
+### Alleged government sources
 
 Leaked and archived sources:
 
