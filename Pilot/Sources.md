@@ -94,7 +94,7 @@ a work in progress, last updated: 2021-03-31
      * Guo, Rongxing: China Ethnic Statistical Yearbook 2020  
        https://www.researchgate.net/publication/344210956_China_Ethnic_Statistical_Yearbook_2020 (overview)  
        https://www.amazon.com/China-Ethnic-Statistical-Yearbook-2020/dp/3030490238 (buy)
-     * Adrian Zenz's following article, "Sterilizations, IUDs, and Coercive Birth Prevention: The CCP’s Campaign to Suppress Uyghur Birth Rates in Xinjiang" has many official references from the subject  
+     * Adrian Zenz's following article, "Sterilizations, IUDs, and Coercive Birth Prevention: The CCP’s Campaign to Suppress Uyghur Birth Rates in Xinjiang" has many official references about the subject  
        https://jamestown.org/program/sterilizations-iuds-and-mandatory-birth-control-the-ccps-campaign-to-suppress-uyghur-birth-rates-in-xinjiang/
 * Labor
   * Xinjiang relocates 460k residents (2018)  
