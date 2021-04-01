@@ -107,7 +107,7 @@ Publicly available official sources:
 
 Leaked and archived sources:
 
-* Xinjiang Victim Database collected primary evidencies such as court orders, diplomatic communication, investigation announcment and state media reports  
+* Xinjiang Victim Database documents alleged primary evidencies such as court orders, diplomatic communication, investigation announcment and state media reports  
   https://shahit.biz/eng/#evidence
 * The China Cables - leaked secret Chinese government from 2017 (2019)  
   https://en.wikipedia.org/wiki/China_Cables 
