@@ -109,7 +109,7 @@ Leaked and archived sources:
 
 * Xinjiang Victim Database documents alleged primary evidencies such as court orders, diplomatic communication, investigation announcment and state media reports  
   https://shahit.biz/eng/#evidence
-* The China Cables - leaked secret Chinese government from 2017 (2019)  
+* The China Cables - leaked secret Chinese government documents from 2017 (2019)  
   https://en.wikipedia.org/wiki/China_Cables 
 * The Aksu list - leaked list of over 2,000 detainees from Aksu prefecture (2020)   
   https://www.hrw.org/news/2020/12/09/china-big-data-program-targets-xinjiangs-muslims
