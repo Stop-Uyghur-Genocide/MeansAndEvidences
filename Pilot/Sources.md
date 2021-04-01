@@ -18,7 +18,8 @@ a work in progress, last updated: 2021-03-31
   https://campaignforuyghurs.org/category/advocacy-resources/  
   https://campaignforuyghurs.org/wp-content/uploads/2020/10/Genocide-Report-English-1.pdf
 
-## Chinese community sources
+## Chinese source
+### Chinese community sources
 
 * Shawn Zhang [@shawnwzhang](https://twitter.com/shawnwzhang)  
   https://shawnzhang.ca/test/  
@@ -31,7 +32,9 @@ a work in progress, last updated: 2021-03-31
 * TALKING ABOUT XINJIANG 我们一起来谈谈新疆  
   https://www.talkaboutxinjiang.com/
  
-## Chinese goverment sources
+### Chinese government sources
+
+Publicly available official sources:
 
 * Regulations
   * Xinjiang Uighur Autonomous Region Regulation on De-extremification  
@@ -94,14 +97,21 @@ a work in progress, last updated: 2021-03-31
      * Guo, Rongxing: China Ethnic Statistical Yearbook 2020  
        https://www.researchgate.net/publication/344210956_China_Ethnic_Statistical_Yearbook_2020 (overview)  
        https://www.amazon.com/China-Ethnic-Statistical-Yearbook-2020/dp/3030490238 (buy)
-     * Adrian Zenz's following article, "Sterilizations, IUDs, and Coercive Birth Prevention: The CCP’s Campaign to Suppress Uyghur Birth Rates in Xinjiang" has many official references about the subject  
-       https://jamestown.org/program/sterilizations-iuds-and-mandatory-birth-control-the-ccps-campaign-to-suppress-uyghur-birth-rates-in-xinjiang/
 * Labor
   * Xinjiang relocates 460k residents (2018)  
     https://www.globaltimes.cn/content/1109761.shtml
   * China Institute of Wealth and Economics, Nankai University: Work Report on Poverty Alleviation Work by Uyghur Labor Force Transfer in Hotan, Xinjiang (2019)  
     http://web.archive.org/web/20200507161938/https:/ciwe.nankai.edu.cn/2019/1223/c18571a259225/page.htm
 
+### Alleged Chinese government sources
+
+Leaked and archived sources:
+
+* Xinjiang Victim Database collected primary evidencies such as court orders, diplomatic communication, investigation announcment and state media reports  
+  https://shahit.biz/eng/#evidence
+* Adrian Zenz's following article, "Sterilizations, IUDs, and Coercive Birth Prevention: The CCP’s Campaign to Suppress Uyghur Birth Rates in Xinjiang" has many archived references about the subject of forced birth control   
+  https://jamestown.org/program/sterilizations-iuds-and-mandatory-birth-control-the-ccps-campaign-to-suppress-uyghur-birth-rates-in-xinjiang/
+       
 ## Western sources
 
 * Kelly Hammond @kellyahammond, Sophie Bonadeo [@sophiebonadeo](https://twitter.com/kellyahammond), University of Arkansas: Credible sources about the human rights crisis in Xinjiang  
