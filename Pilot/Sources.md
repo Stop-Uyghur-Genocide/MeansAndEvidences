@@ -39,8 +39,8 @@ Publicly available official sources:
 * Regulations
   * Xinjiang Uighur Autonomous Region Regulation on De-extremification  
     https://www.chinalawtranslate.com/en/decision-to-revise-the-xinjiang-uighur-autonomous-region-regulation-on-de-extremification/  
-    http://xmsyj.xinjiang.gov.cn/xmsyj/jdszcfg/201804/2ca794a84baa4e2b8ad78ec5b7d62c61.shtml  
-    https://www.xinjiang.gov.cn/xinjiang/fsljzcfg/201810/ce79abb87ad847cdaa7d1e4e07423358.shtml (unavailable?)
+    http://xmsyj.xinjiang.gov.cn/xmsyj/jdszcfg/201804/2ca794a84baa4e2b8ad78ec5b7d62c61.shtml | archived version: https://web.archive.org/web/20201101233848/http://xmsyj.xinjiang.gov.cn/xmsyj/jdszcfg/201804/2ca794a84baa4e2b8ad78ec5b7d62c61.shtml   
+    https://www.xinjiang.gov.cn/xinjiang/fsljzcfg/201810/ce79abb87ad847cdaa7d1e4e07423358.shtml | archived version: https://web.archive.org/web/20210301053232/https://www.xinjiang.gov.cn/xinjiang/fsljzcfg/201810/ce79abb87ad847cdaa7d1e4e07423358.shtml
   * Counter-Terrorism
     * Counter-Terrorism Law (2015)  
       https://www.chinalawtranslate.com/en/counter-terrorism-law-2015/
