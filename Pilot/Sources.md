@@ -13,7 +13,7 @@ a work in progress, last updated: 2021-04-01
   * Reports and briefings  
     https://uhrp.org/uhrp-reports
   * Bibliography of select news reports & academic works  
-    https://docs.uhrp.org/pdf/China's%20're-education'%20concentration%20camps%20in%20Xinjiang%20-%20BIBLIO.pdf
+    https://uhrp.org/wp-content/uploads/2021/10/Chinas-re-education-concentration-camps-in-Xinjiang-BIBLIOGRAPHY.pdf
 * Campaign for Uyghurs: Resources  
   https://campaignforuyghurs.org/category/advocacy-resources/  
   https://campaignforuyghurs.org/wp-content/uploads/2020/10/Genocide-Report-English-1.pdf
