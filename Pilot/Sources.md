@@ -12,7 +12,7 @@ a work in progress, last updated: 2021-10-23
 * Uyghur Human Rights Project: 
   * Reports and briefings  
     https://uhrp.org/uhrp-reports
-  * Bibliography of select news reports & academic works  
+  * A more then 1,000 page bibliography of select news reports & academic works  
     https://uhrp.org/wp-content/uploads/2021/10/Chinas-re-education-concentration-camps-in-Xinjiang-BIBLIOGRAPHY.pdf
 * Campaign for Uyghurs: Resources  
   https://campaignforuyghurs.org/category/advocacy-resources/  
