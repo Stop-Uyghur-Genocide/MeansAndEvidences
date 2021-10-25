@@ -3,7 +3,7 @@ a work in progress, last updated: 2021-10-23
 
 ## Uyghur sources
 
-* Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz) - over 10,000 victim record   
+* Xinjiang Victim Database [@shahitbiz](https://twitter.com/shahitbiz) - over 20,000 victim records   
   https://shahit.biz/eng/ 
 * Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse) -- over 1,000 video testimonies   
   https://www.youtube.com/channel/UCxtHBfWaWYQPNgfvdvSDn4A
