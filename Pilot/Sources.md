@@ -1,5 +1,5 @@
 # Sources
-a work in progress, last updated: 2021-10-23
+a work in progress, last updated: 2021-12-14
 
 ## Uyghur sources
 
@@ -123,6 +123,8 @@ Leaked and archived sources:
 * Shanghai security files, the PSB data leak (2021)  
   https://www.abc.net.au/news/2021-04-01/shanghai-files-shed-light-on-china-surveillance-state/100040896  
   https://www.internet2-0.com/ (see PSB Data Leak section)
+* “Xinjiang Papers” originally received by New York Times, then analyzed by Uyghur Tribunal, esp. Adrian Zenz
+  https://uyghurtribunal.com/wp-content/uploads/2021/11/The-Xinjiang-Papers-An-Introduction-1.pdf
 * Adrian Zenz's following article, "Sterilizations, IUDs, and Coercive Birth Prevention: The CCP’s Campaign to Suppress Uyghur Birth Rates in Xinjiang" has many archived references about the subject of forced birth control (2020)   
   https://jamestown.org/program/sterilizations-iuds-and-mandatory-birth-control-the-ccps-campaign-to-suppress-uyghur-birth-rates-in-xinjiang/
        
