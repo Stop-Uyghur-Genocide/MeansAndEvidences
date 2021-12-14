@@ -29,7 +29,9 @@ a work in progress, last updated: 2021-12-14
   https://www.aspi.org.au/report/uyghurs-sale
 * TALKING ABOUT XINJIANG 我们一起来谈谈新疆  
   https://www.talkaboutxinjiang.com/
- 
+* Looking for Xinjiang Concentration Camp-Urban and Rural Photo Shooting 寻找新疆集中营 - 城乡随拍[5/8] (covered field report about Xinjiang concentration camps)  
+  https://www.youtube.com/watch?v=cI8bJO-to8I
+
 ### Chinese government sources
 
 Publicly available official sources:
