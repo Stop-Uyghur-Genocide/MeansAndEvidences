@@ -7,8 +7,6 @@ a work in progress, last updated: 2021-12-14
   https://shahit.biz/eng/ 
 * Uyghur Pulse [@uyghurpulse](https://twitter.com/uyghurpulse) -- over 1,000 video testimonies   
   https://www.youtube.com/channel/UCxtHBfWaWYQPNgfvdvSDn4A
-* UyghurAid -- over 300 video testimonies   
-  https://uyghuraid.org/testimonies  
 * Uyghur Human Rights Project: 
   * Reports and briefings  
     https://uhrp.org/uhrp-reports
