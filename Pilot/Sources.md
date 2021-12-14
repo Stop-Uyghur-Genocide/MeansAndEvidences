@@ -164,8 +164,6 @@ Leaked and archived sources:
 * [@csomgyula](https://twitter.com/csomgyula)  
   Public evidences on the Uyghur genocide  
   https://twitter.com/csomgyula/status/1305797763377041409  
-  Thread about the Chinese propaganda machine with a special focus on the Uyghur genocide  
-  https://twitter.com/csomgyula/status/1310214293783281664
 
 See also these searches:  
 
