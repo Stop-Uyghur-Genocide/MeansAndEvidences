@@ -24,4 +24,6 @@ Release is also available: [Pilot (PR)](https://github.com/Stop-Uyghur-Genocide/
 
 ## Discussion
 
-You may follow the public discussion on Twitter: https://twitter.com/csomgyula/status/1346495545741873157 or on Quora: https://factcheckchina.quora.com/Means-and-evidences-of-the-Uyghur-genocide
+You may follow the public discussion on 
+* Twitter: https://twitter.com/csomgyula/status/1346495545741873157 or
+* Quora: https://factcheckchina.quora.com/Means-and-evidences-of-the-Uyghur-genocide
