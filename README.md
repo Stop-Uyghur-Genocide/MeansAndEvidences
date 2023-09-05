@@ -15,7 +15,7 @@ See the initial proposal here: https://twitter.com/csomgyula/status/134649554574
 ## Pilot
 The current stream of work is to create a [pilot](Pilot) version. It is currently open for public review:
 
-* **Concept**: Done, for a visual illustration of the concept see the structural [diagram](Pilot/Concept/MeansAndEvidencesDiagram.pdf)
+* **Concept**: Done, for a visual illustration of the concept see the [MeansAndEvidencesDiagram.pdf](Pilot/Concept/MeansAndEvidencesDiagram.pdf)
 * **Sources**: Done, for some publicly available sources of the Uyghur genocide see: [Sources.md](Pilot/Sources.md) 
 * **Brief report**: Done, see: [Report.pdf](https://raw.githubusercontent.com/Stop-Uyghur-Genocide/MeansAndEvidences/main/Pilot/Report/Report.pdf) 
 * **InfoGraphic**: Done, see: [InfoGraphic.png](https://raw.githubusercontent.com/Stop-Uyghur-Genocide/MeansAndEvidences/main/Pilot/InfoGraphic/InfoGraphic.png)
